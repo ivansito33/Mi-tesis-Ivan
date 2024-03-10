@@ -1,8 +1,6 @@
 **CAPÍTULO I**
 
-
 **EL PROBLEMA**
-
 
 ## **Contextualización del problema**
 
@@ -10,7 +8,7 @@ En un mundo digital tan grande y compuesto por distintos tipos de información, 
 
 La web se compone de páginas web, que son documentos que contienen texto, imágenes, sonidos o videos, y que se pueden visualizar mediante un navegador web, como Google Chrome o Mozilla Firefox. Las páginas web se agrupan en sitios web, que son conjuntos de páginas relacionadas por un tema o una entidad. Por ejemplo, Youtube es un sitio web que contiene muchas páginas web de videos.
 
-Además, tiene una gran importancia en el mundo actual, ya que es una fuente de información, comunicación, educación, entretenimiento, comercio y cultura. La web permite a las personas acceder a una gran cantidad de información sobre cualquier tema, desde cualquier lugar y en cualquier momento. Por lo tanto, facilita la comunicación e interacción entre las personas, mediante redes sociales, correos electrónicos, chats, foros, blogs, etc. También permite hacer transacciones comerciales, usando tiendas en línea, bancos, servicios, etc. La web también contribuye a la difusión y enriquecimiento de la cultura, usando museos, bibliotecas, medios de comunicación, etc.
+Además, tiene una gran importancia en el mundo actual, ya que es una fuente de información, comunicación, educación, entretenimiento, comercio y cultura. La web permite a las personas acceder a una gran cantidad de información sobre cualquier tema, desde cualquier lugar y en cualquier momento. Por lo tanto, también facilita la comunicación e interacción entre las personas, mediante el uso de redes sociales, correos electrónicos, chats, foros, blogs, etc. También permite realizar transacciones comerciales, mediante el uso de tiendas en línea, bancos, servicios, etc. La web también contribuye a la difusión y el enriquecimiento de la cultura, mediante el uso de museos, bibliotecas, medios de comunicación, etc.
 
 En primer lugar, podemos encontrar la aplicación web, esta es un software que se ejecuta en el navegador web, y que permite realizar funciones determinadas en internet, como enviar mensajes, realizar compras, editar imágenes, jugar videojuegos, hacer pagos, entre otras acciones. Una aplicación web se diferencia de una aplicación de escritorio o móvil, en que no necesita ser instalada ni actualizada en el dispositivo del usuario, sino que se accede a ella mediante una dirección web o URL.
 
@@ -52,6 +50,7 @@ De acuerdo a lo anterior, se plantean las siguientes interrogantes:
 
 
 
+
 **Objetivos de la investigación**
 
 
@@ -70,7 +69,7 @@ De acuerdo a lo anterior, se plantean las siguientes interrogantes:
 
 `   `Asegurar que la aplicación web esté completamente optimizada para dispositivos móviles, garantizando una experiencia de usuario fluida y accesible para aquellos que acceden a la información desde sus teléfonos o tabletas.
 
-`   `Incorporar prácticas de optimización de motores de búsqueda (SEO) específicas para San Blas, Valencia, para mejorar la visibilidad de Plomería MB en los resultados locales y aumentar la captación de clientes en la empresa.
+`   `Incorporar prácticas de optimización de motores de búsqueda (SEO) específicas para la localidad de San Blas, Valencia, con el fin de mejorar la visibilidad de Plomería MB en los resultados de búsqueda locales y aumentar la captación de clientes en la empresa.
 
 `   `Integrar herramientas de seguimiento y análisis de datos para evaluar el rendimiento de la aplicación web, permitiendo un monitoreo constante de la efectividad de las estrategias publicitarias implementadas y facilitando ajustes según sea necesario para mejorar resultados.
 
@@ -83,17 +82,19 @@ De acuerdo a lo anterior, se plantean las siguientes interrogantes:
 
 
 
-
+##
 
 ## **Justificación**
-
 El desarrollo de una aplicación web dedicada a potenciar la publicidad y aumentar la captación de clientela para la empresa de plomería BM es crucial en el contexto actual de avance tecnológico y transformación digital. A medida que la sociedad se vuelve cada vez más dependiente de la tecnología y de las plataformas en línea para buscar servicios y productos, las empresas locales, incluidas las de servicios como la plomería, deben adaptarse para seguir siendo relevantes y competitivas en el mercado.
 
 La justificación de este trabajo de grado se apoya en la necesidad de la empresa de plomería BM de adaptarse a este panorama digital y estar a la vanguardia de las prácticas comerciales modernas. La creación de una aplicación web específica para la empresa no solo mejorará su visibilidad en línea, sino que también reforzará su imagen de marca, facilitará la interacción con los clientes y permitirá la implementación de estrategias publicitarias más efectivas y dirigidas.  Además, esta herramienta puede contribuir a optimizar la gestión de citas, pedidos de servicios y atención al cliente, lo que se traduce en una mejora en la experiencia del cliente y en la eficiencia operativa para la empresa.
 
 También, desde el punto de vista operativo, la integración de una aplicación web para la empresa de plomería BM contribuirá a una gestión más eficiente de los servicios, programación de citas, seguimiento de clientes y retroalimentación. Esto no solo redundará en una mejora de la experiencia del cliente, sino que también aumentará la productividad y la eficiencia de la empresa en su conjunto.
 
-Al justificar este trabajo de grado, se busca abordar la necesidad tangible de la empresa de plomería BM de potenciar su presencia en línea, mejorar sus estrategias de publicidad y captación de clientela, y optimizar sus procesos internos. Esto beneficiará a la empresa en crecimiento y rentabilidad y aportará conocimientos relevantes a la tecnología aplicada a empresas locales. 
+Al justificar este trabajo de grado, se busca abordar la necesidad tangible de la empresa de plomería BM de potenciar su presencia en línea, mejorar sus estrategias de publicidad y captación de clientela, y optimizar sus procesos internos. Esto no solo beneficiará a la empresa en términos de crecimiento y rentabilidad, sino que también aportará conocimientos relevantes al campo de la tecnología aplicada a empresas locales. 
+
+
+
 
 
 
@@ -127,22 +128,75 @@ La importancia de este es tan necesaria ya que proporciona una base sólida de i
 
 
 
+
+
+**Bases teoricas**
+
+Se refieren a la fundamentación conceptual que sustenta el enfoque y las decisiones metodológicas de la investigación. Estas bases comprenden el conjunto de teorías, conceptos, enfoques, modelos y marcos de referencia que se utilizan para contextualizar, analizar y comprender el problema de investigación. Estos elementos teóricos proporcionan al investigador un marco de referencia sólido que orienta la formulación de preguntas de investigación, hipótesis, la selección de métodos, la interpretación de resultados y la construcción de conclusiones.
+
+**Marco Legal y Normativo**
+
+Privacidad de Datos*:* La aplicación se someterá rigurosamente a las leyes de privacidad de datos, como el Reglamento General de Protección de Datos (GDPR) y regulaciones locales. La protección de la información del usuario será fundamental, implementando medidas técnicas y organizativas para garantizar la confidencialidad y la integridad de los datos.
+
+Seguridad en Línea*:* Conforme a las mejores prácticas de seguridad informática, la aplicación incorporará protocolos de seguridad avanzados, incluyendo cifrado de extremo a extremo y autenticación multifactorial, para resguardar la información sensible del usuario.
+
+**Lenguajes de Programación**
+
+JavaScript: Se empleará JavaScript como lenguaje principal para el desarrollo, aprovechando su versatilidad para programación tanto en el lado del cliente como del servidor. La ejecución en navegadores web y servidores brindará una coherencia técnica que facilitará el mantenimiento y la escalabilidad. 
+
+Node.js: La integración de Node.js permitirá la ejecución eficiente del código del lado del servidor, aprovechando su naturaleza asíncrona para gestionar múltiples solicitudes concurrentes.
+
+**Framework SvelteKit**
+
+Compilación Anticipada*:* Sveltekit, como framework de desarrollo, se selecciona por su capacidad de compilación anticipada. Esta característica reducirá el tiempo de carga al mínimo, optimizando la velocidad de la aplicación al enviar únicamente el código necesario al navegador.
+
+Gestión Inteligente del Estado*:* La gestión eficiente del estado en Sveltekit simplificará la manipulación de datos, mejorando la organización del código y proporcionando un rendimiento excepcional.
+
+**Base de Datos PostgreSQL**
+
+Robustez: PostgreSQL, con su robusta arquitectura relacional, se elige por su capacidad para manejar grandes volúmenes de datos y garantizar la consistencia y la integridad de la información.
+
+Escalabilidad*:* La capacidad de escalabilidad vertical y horizontal de PostgreSQL será aprovechada para adaptarse a las necesidades cambiantes de la aplicación a medida que crece.
+
+**Metodologias Agiles**
+
+Scrum*:* La metodología Scrum se implementará para la gestión del proyecto. Los sprints regulares permitirán una planificación efectiva, revisiones continuas y flexibilidad para adaptarse a los cambios en los requisitos del cliente.
+
+**Tecnologías Emergentes y Buenas Prácticas**
+
+APIs: La aplicación incorporará APIs para facilitar la integración con servicios externos, proporcionando una arquitectura modular y favoreciendo la interoperabilidad.
+
+Diseño* UX/UI*:* Se seguirán estrictamente las mejores prácticas de diseño de experiencia de usuario (UX) y diseño de interfaz de usuario (UI) para garantizar una experiencia atractiva, intuitiva y centrada en el usuario.
+
+**Desarrollo Iterativo**
+
+Entrega Continua*:* El desarrollo se basará en un enfoque iterativo con entregas continuas. Esto permitirá la obtención de retroalimentación temprana y la adaptación ágil a los cambios en los requisitos del cliente.
+
+Retroalimentación de Usuarios*:* La participación activa de los usuarios será fomentada a través de pruebas beta y encuestas, asegurando que sus necesidades y expectativas estén alineadas con el desarrollo de la aplicación.
+
+**Monitoreo y Optimización**
+
+Herramientas de Monitoreo: Herramientas avanzadas de monitoreo se implementarán para analizar el rendimiento de la aplicación en tiempo real. Esto permitirá ajustes proactivos y la identificación temprana de posibles problemas.
+
+Optimización Continua: La optimización será un proceso continúo basado en el análisis de datos y la retroalimentación de los usuarios. Se buscará mejorar la eficiencia y la usabilidad de la aplicación de manera constante.
+
+
+
+
+
+
+
 **Antecedentes de la investigación**
 
 Los antecedentes de investigación, son todos los trabajos de grado, investigaciones que permiten sustentar cualquier investigación, como lo comenta el autor **Supo, J. (2015),** el cual comenta que: “Los antecedentes investigativos son estudios desarrollados dentro de nuestra línea de investigación, ubicados en el mismo nivel investigativo o por debajo de el” 
 
 Para iniciar, el autor **Brian R. Torres G.** **(2017)** en su tesis determina el cómo influye una aplicación web en la gestión de ventas en la empresa Zam marketing. La implementación del sistema se basó en tecnología web para facilitar el proceso de la gestión de ventas. Por ello, se describe previamente aspectos teóricos de lo que es la gestión de ventas, así como las metodologías que se utilizaron para el desarrollo de la Aplicación. Para el desarrollo de la aplicación web, se empleó la metodología RUP, por ser la que más se acomodaba a las necesidades y etapas del proyecto. El tipo de investigación es aplicada, el diseño de la investigación es experimental y el enfoque es cuantitativo.
 
-` `La población se determinó a 90 visitas por día dentro de un mes agrupado en 20 fichas de registro. El tamaño de la muestra estuvo conformado por 73 fichas de registro, estratificados por días. Por lo tanto, la muestra quedó conformada en 20 fichas de registro. El muestreo es el aleatorio probabilístico simple. La técnica de recolección de datos fue el fichaje y el instrumento la ficha de registro, validados por expertos. La implementación de la aplicación web permitió incrementar el nivel de productividad del 50,91% a un 74%, del mismo modo, se incrementó el crecimiento de ventas del -0,56% a un 9,10%. Los resultados mencionados anteriormente, permitieron llegar a la conclusión que la aplicación web mejora la gestión de ventas en la empresa Zam Marketing Consultora S.A.C.
+` `La población se determinó a 90 visitas por día dentro de un mes agrupado en 20 fichas de registro. El tamaño de la muestra estuvo conformado por 73 fichas de registro, estratificados por días. Por lo tanto, la muestra quedó conformada en 20 fichas de registro. El muestreo es el aleatorio probabilístico simple. La técnica de recolección de datos fue el fichaje y el instrumento fue la ficha de registro, los cuales fueron validados por expertos. La implementación de la aplicación web permitió incrementar el nivel de productividad del 50,91% a un 74%, del mismo modo, se incrementó el crecimiento de ventas del -0,56% a un 9,10%. Los resultados mencionados anteriormente, permitieron llegar a la conclusión que la aplicación web mejora la gestión de ventas en la empresa Zam Marketing Consultora S.A.C.
 
-**Juan Y. Sejuro S. (2017),** Lleva como título: “Aplicación Web para mejorar la gestión por procesos del área de trámites de placas en la empresa Soporte Logístico Automotriz E.I.R.L.”, su objetivo general: Determinar la influencia de una aplicación web en mejorar la gestión por procesos del área de tramites de placas de la empresa Soporte Logístico Automotriz E.I.R.L. Cabe indicar que nuestra variable independiente fue: Aplicación Web definida conceptualmente por los autores Alicia Ramos y Jesús Ramos (2014). Así mismo nuestra variable dependiente fue: Gestión por procesos, que cuenta con estas dimensiones: eficacia y eficiencia, variable y dimensiones, las definió conceptualmente Luis Fernando Agudelo (2012). La investigación es tipo aplicada y diseño preexperimental, la población consta de 600 tramites, que eran la cantidad de tramites expedidos en 1 mes, deduciendo los domingos, 26 días hábiles, la población estuvo conformada por aquellos que no tuvieron observaciones que impidieran culminar (eficacia) y aquellos que culminaban en el tiempo adecuado comprometido con el cliente usando menos recursos humanos para esta labor. 
+**Juan Y. Sejuro S. (2017),** Lleva como título: “Aplicación Web para mejorar la gestión por procesos del área de trámites de placas en la empresa Soporte Logístico Automotriz E.I.R.L.”, su objetivo general: Determinar la influencia de una aplicación web en mejorar la gestión por procesos del área de tramites de placas de la empresa Soporte Logístico Automotriz E.I.R.L. Cabe indicar que nuestra variable independiente fue: Aplicación Web definida conceptualmente por los autores Alicia Ramos y Jesús Ramos (2014). Así mismo nuestra variable dependiente fue: Gestión por procesos la cual cuenta con las siguientes dimensiones: eficacia y eficiencia, tanto variable y dimensiones fueron definidas conceptualmente por Luis Fernando Agudelo (2012). Esta investigación es tipo aplicada y diseño pre experimental, la población consta de 600 tramites los cuales eran la cantidad de tramites expedidos en el transcurso de 1 mes, deduciendo los domingos, 26 días hábiles, la población estuvo conformada por aquellos tramites que no tuvieron ninguna observación que impidiera su culminación (eficacia) y aquellos que eran culminados en el tiempo adecuado comprometido con el cliente usando incluso menos recursos humanos para esta labor. 
 
-La muestra resultó en 234 trámites, los recolectaron de manera no probabilística a través de fichas de observación, por las características de los datos recolectados se usó la prueba Z con proporciones con la que se descartó la hipótesis nula. La investigación concluyo que la aplicación web si mejoró la gestión por procesos del área de trámites de placas, basándose en el rechazo de la hipótesis nula y en el aumento del porcentaje de tramites concluidos correctamente en 47.01% y el porcentaje de tramites concluidos a tiempo en 48.72% después de implementada la aplicación web.
-
-
-**Wilmer José P. (2021),** Lleva como título, “Diseño e implementación de una aplicación web para la gestión de servicios de plomería”. Esta tesis describe el diseño e implementación de una aplicación web para la gestión de servicios de plomería. La aplicación permite a los usuarios registrarse y crear un perfil, solicitar servicios de plomería, incluyendo la descripción del problema, la ubicación y la fecha y hora deseada. Como también consultar precios de los diferentes servicios de plomería.
-
-La tesis concluye que la aplicación web desarrollada es una herramienta útil para la gestión de servicios de plomería. La aplicación permite a los usuarios solicitar servicios de plomería de manera rápida y eficiente, y a los plomeros administrar sus citas y pagos de manera organizada.
+La muestra la cual dio como resultado 234 trámites, dichos trámites fueron recolectados de manera no probabilística a través de fichas de observación, debido a las características de los datos recolectados se usó la prueba Z con proporciones con la cual se descartó la hipótesis nula. La investigación concluyo que la aplicación web si mejoró la gestión por procesos del área de trámites de placas, basándose en el rechazo de la hipótesis nula y en el aumento del porcentaje de tramites concluidos correctamente en 47.01% y el porcentaje de tramites concluidos a tiempo en 48.72% después de implementada la aplicación web.
 
 
 
@@ -152,36 +206,45 @@ La tesis concluye que la aplicación web desarrollada es una herramienta útil p
 
 
 
+**Definición de términos**
 
 **Aplicación web**
 
-se denomina aplicación web o software web a aquella herramienta que los usuarios pueden utilizar accediendo a un servidor web a través de internet o de una intranet mediante un navegador. En otras palabras, es un programa que se codifica en un lenguaje interpretable por los navegadores web en la que se confía la ejecución al navegador.
+Una aplicación web es un software que se ejecuta en el navegador web. Las empresas tienen que intercambiar información y proporcionar servicios de forma remota. Utilizan aplicaciones web para comunicarse con los clientes cuando lo necesiten y de una forma segura. 
 
-Según __Tim Berners-Lee, inventor de la World Wide Web (1993), *“*__*Las aplicaciones web son programas que se ejecutan en un navegador web, en lugar de en una computadora individual. Esto significa que se pueden usar desde cualquier lugar, en cualquier dispositivo con una conexión a Internet”.*
+**Publicidad digital**
 
-**Publicidad Digital**
-
-La publicidad digital se refiere al marketing a través de canales en línea, como sitios web, contenido en streaming y más. Los anuncios digitales abarcan formatos de medios, incluidos texto, imagen, audio y video. **Philip Kotler**, autor de **"Marketing Management" (2018)**, lo define mejor como: *“La publicidad digital es la forma más efectiva de llegar a los consumidores en la era digital."* 
+Es aquella obra cuyo formato, almacenamiento y distribución está basado en medios digitales y electrónicos. Existen una gran variedad de ellas y cubre las de su versión en papel y variantes digitales: revistas, periódicos, blogs, libros, etc. 
 
 **Captación de clientes**
 
-La captación de clientes o adquisición de clientes es el proceso estratégico mediante el cual una organización identifica a su audiencia, la atrae y la convierte en compradores. Esto se logra con acciones que crean un camino óptimo, a fin de que un desconocido llegue a ser un consumidor recurrente.
-
-**Brian Tracy**, autor de **"The Ultimate Sales Machine" (2011)**. Lo define mejor como: *“El objetivo de la captación de clientes es crear una base de clientes leales que compren tus productos o servicios una y otra vez."*
+` `proceso estratégico mediante el cual una organización identifica a su audiencia, la atrae y la convierte en compradores. Esto se logra con acciones que crean un camino óptimo, a fin de que un desconocido llegue a ser un consumidor recurrente. 
 
 **Base de datos**
 
-Una base de datos es una herramienta para recopilar y organizar información. Las bases de datos pueden almacenar información sobre personas, productos, pedidos u otras cosas. Muchas bases de datos comienzan como una lista en una hoja de cálculo o en un programa de procesamiento de texto.
-
-` `**Edgar F. Codd (1970)**: Introdujo el modelo relacional de bases de datos, el más utilizado hoy. Y define la base de datos como: *“una colección de datos interrelacionados, almacenados juntos sin redundancia innecesaria para servir a múltiples aplicaciones."*
+Una base de datos se encarga no solo de almacenar datos, sino también de conectarlos entre sí en una unidad lógica. En términos generales, una base de datos es un conjunto de datos estructurados que pertenecen a un mismo contexto y, en cuanto a su función, se utiliza para administrar de forma electrónica grandes cantidades de información.
 
 **Interfaz de usuario (UI)**
 
-Es el medio que permite la comunicación entre un usuario y una máquina, equipo, computadora o dispositivo, y comprende todos los puntos de contacto entre el usuario y el equipo. Según el Ingeniero **Ben Shneiderman**, autor de **Leonardo's Laptop: Human Needs and the New Computing Technologies (1997),** *"La interfaz de usuario es el punto de contacto entre el hombre y la máquina."*
+La interfaz de usuario es el espacio donde se producen las interacciones entre seres humanos y máquinas. El objetivo de esta interacción es permitir el funcionamiento y control más efectivo de la máquina desde la interacción con el humano.
 
 **Experiencia del usuario (UX)**
 
-La experiencia del usuario engloba todas aquellas interacciones del usuario con una marca. Por supuesto, tras la transformación digital, esta experiencia se orienta a páginas web, aplicaciones móviles, herramientas y recursos similares.
+La experiencia del usuario es el conjunto de factores y elementos relativos a la interacción del usuario con un entorno o dispositivo concretos, dando como resultado una percepción positiva o negativa de dicho servicio, producto o dispositivo.
 
-**Jared Spool, autor de "Web Design: Usability, Accessibility, and Search Engine Optimization" (2009).** Lo describe mejor como: *"La UX se trata de entender a los usuarios y lo que necesitan, y luego diseñar productos que satisfagan esas necesidades de una manera que sea agradable y eficiente.
+**SEO (Optimización de motores de búsqueda)**
+
+SEO (del inglés *search engine optimization*) es un conjunto de acciones orientadas a mejorar el posicionamiento de un sitio web en la lista de resultados de Google, Bing, u otros buscadores de internet. Trabaja aspectos técnicos como la optimización de la estructura y los metadatos de una web, pero también se aplica a nivel de contenidos, con el objetivo de volverlos más útiles y relevantes para los usuarios.
+
+**Back end y Front end**
+
+En Diseño del Software el *front end* es la parte del *software* que interactúa con los usuarios y el *back end* es la parte que procesa la entrada desde el *front end*. La separación del sistema en *front ends* y *back ends* es un tipo de abstraccion que ayuda a mantener las diferentes partes del sistema separadas. La idea general es que el *front end* sea el responsable de recolectar los datos de entrada del usuario, que pueden ser de muchas y variadas formas, y los transforma ajustándolos a las especificaciones que demanda el *back end* para poder procesarlos, devolviendo generalmente una respuesta que el *front end* recibe y expone al usuario de una forma entendible para este.
+
+**API (Interfaz de programación de aplicaciones)**
+
+Una API (del inglés, *application programming interface*, en español, *interfaz de programación de aplicaciones)* es una pieza de código que permite a diferentes aplicaciones comunicarse entre sí y compartir información y funcionalidades. Una API es un intermediario entre dos sistemas, que permite que una aplicación se comunique con otra y pida datos o acciones específicas.
+
+**Método Scrum**
+
+Scrum es un marco de trabajo para desarrollo ágil del software que se ha expandido a otras industrias. Es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo y obtener el mejor resultado posible de proyectos. Este modelo fue identificado y definido por **Ikujiro Nonaka** y **Takeuchi** a principios de los 80, al analizar cómo desarrollaban los nuevos productos las principales empresas de manufactura tecnológica: Fuji-Xerox, Canon, Honda, NEC, Epson, Brother, 3M y Hewlett-Packard (Nonaka & Takeuchi, The New New Product Development Game, 1986).
 
